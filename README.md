@@ -1,1 +1,1 @@
-# mongodb-model-example
+# mysql-model-example
